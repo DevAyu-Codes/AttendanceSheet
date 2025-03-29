@@ -1,9 +1,9 @@
-# Attendance-Register-Project-JAVA
+# Attendance Sheet in Java
 This program can be used to develop a basic attendance register.
 
 Note: 
-* This project is solely created by AYUSH and you can use it as long as you don't consider it as yours.
-* I cannot write the whole code in README.md, you can get all the classes from the files i uploaded.
+* This project is solely created by Ayu and you can use it as long as you don't consider it as yours.
+* I cannot write the whole code in README.md, you can get all the classes from the files I uploaded.
 * You can also download the JAR file of this project from the release section and import it to Eclipse of IntelliJ IDE.
 
 Info:
